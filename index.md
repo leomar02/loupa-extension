@@ -14,6 +14,8 @@ Loupa adds compact badges to every job card and a floating toolbar for sorting a
 filtering. Everything runs locally in your browser: no accounts, no tracking, no data
 ever leaves your machine.
 
+<p align="center"><a href="https://chromewebstore.google.com/detail/loupa/jkijhchgpdafmmalnfneiojdafakjghf"><strong>Install Loupa from the Chrome Web Store →</strong></a></p>
+
 ---
 
 ## What it does
@@ -75,7 +77,7 @@ network requests of its own. All processing happens locally in your browser.
 
 Having trouble, or spotted a job board layout Loupa doesn't handle?
 
-Please use the **Support** tab on the Chrome Web Store listing to report it. Including a
+Please use the **Support** tab on the [Chrome Web Store listing](https://chromewebstore.google.com/detail/loupa/jkijhchgpdafmmalnfneiojdafakjghf) to report it. Including a
 screenshot and the search page you were on makes issues much faster to fix.
 
 **Common things to check first:**

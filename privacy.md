@@ -3,6 +3,8 @@ title: Loupa — Privacy Policy
 ---
 
 
+**[Install Loupa on the Chrome Web Store](https://chromewebstore.google.com/detail/loupa/jkijhchgpdafmmalnfneiojdafakjghf)**
+
 _Last updated: 2026-08-11_
 
 Loupa is a Chrome extension that adds badges (posting date, salary, workplace
@@ -41,9 +43,8 @@ repository.
 
 ## Contact
 
-Questions: open an issue on the project repository, or contact the developer at
-the email listed on the Chrome Web Store listing.
+Questions: use the Support tab on the [Chrome Web Store listing](https://chromewebstore.google.com/detail/loupa/jkijhchgpdafmmalnfneiojdafakjghf).
 
 ---
 
-[← Back to Loupa](./)
+[← Back to Loupa](./) · [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/loupa/jkijhchgpdafmmalnfneiojdafakjghf)
