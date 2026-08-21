@@ -39,7 +39,7 @@ Loupa puts that back where you can see it.
 | Badge | What it shows |
 | --- | --- |
 | Posted date | How old the listing is, or `No date` when LinkedIn hides it |
-| Salary | The range and pay period, when the listing has one |
+| Salary | The range in a consistent format (`$95K/yr`, `$45/hr`, `$4,000/mo`), or `No salary` when the listing has none |
 | Workplace | Remote, hybrid, or on-site, as an icon |
 | Easy Apply | Whether it's a quick apply |
 
@@ -75,6 +75,13 @@ Job cards are found through stable anchors rather than LinkedIn's frequently-cha
 class names, which keeps it working across their UI updates. Loupa supports both the
 classic job search and the newer AI-powered one, which are built quite differently
 underneath.
+
+## What's new
+
+**1.17.0** — a `No salary` badge for listings that don't post one, and consistent
+pay-period formatting across every salary badge.
+
+[Full changelog →](https://leomar02.github.io/loupa-extension/#whats-new)
 
 ## Privacy
 

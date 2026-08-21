@@ -23,7 +23,7 @@ ever leaves your machine.
 ### Badges on every job card
 
 - **Posted date** — spot stale listings at a glance, or see *No date* when LinkedIn hides it
-- **Salary** — with the pay period, whenever the listing shows one
+- **Salary** — in a consistent format (`$95K/yr`, `$45/hr`, `$4,000/mo`), or *No salary* when the listing doesn't give one
 - **Workplace type** — Remote, Hybrid, or On-site, as a clear icon
 - **Easy Apply** — highlighted so quick-apply roles stand out
 
@@ -49,6 +49,28 @@ unviewed jobs only, promoted listings hidden, highest paying first.
 
 Salary sorting normalizes pay periods (hourly ≈ 2,080 hrs/yr, monthly × 12) and compares
 the top of each range, so an hourly rate is ranked fairly against an annual salary.
+
+---
+
+## What's new
+
+### 1.17.0 — August 2026
+
+- **A "No salary" badge.** Most LinkedIn listings don't post a salary, and until now
+  an empty space could mean either "not listed" or "Loupa missed it". Cards without a
+  salary now say so outright, in the same muted grey as *No date*.
+- **Consistent pay periods.** Listings mix `$4,000/mo`, `$4,000 a month` and
+  `$4,000 per month` on the same results page. Every salary badge now reads the same
+  compact way — `$95K/yr`, `$45/hr`, `$4,000/mo` — so figures are comparable as you
+  scan rather than needing conversion in your head.
+
+### 1.16.0 — August 2026
+
+- First public release on the Chrome Web Store: badges for posted date, salary,
+  workplace type and Easy Apply, plus the sort-and-filter rail.
+
+You can check your installed version at `chrome://extensions`. Chrome updates
+extensions automatically, usually within a few hours of a release going live.
 
 ---
 
